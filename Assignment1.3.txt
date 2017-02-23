@@ -1,0 +1,51 @@
+Linux Commands:
+
+
+1. pwd - It used to prints the current working directory of the user.
+
+
+2. vi - The default editor that comes with the UNIX operating system is called vi.
+
+
+3. touch - It is used to update the access date and modification date of a file or directory.
+It is the equivalent of creating or opening a file and saving it without any change to 
+the file contents.
+
+
+4. mkdir - It creates a single directories or multiple directories.
+
+
+5. rm - It used to removes files or directories.
+
+
+6. ls - It lists all files in the directory that match the name. If name is left blank then
+it will list all of the files in the directory.
+
+
+7. echo - It used to print whatever that given after echo.
+
+
+8. cat - It allows us to create single or multiple files, view contain of file, concatenate
+files and redirect output in terminal or files.
+
+
+9. who - It displays when that particular file is created and also display additional data 
+and statistics.
+
+
+10. cd - It stands for "change directory" and it used to change current working directory.
+
+
+11. date - The date command is used to print system time and date information.
+
+
+12. cal - It used to display current month, year and all the dates of that month.
+
+
+13. mv - It used to move files and directories to destination directory.
+
+
+14. cp - It used to make copies of files and directories from source to destination.
+
+
+15. which - It used to identify the location of executables.
